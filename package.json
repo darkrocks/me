@@ -1,0 +1,25 @@
+{
+  "name": "me",
+  "version": "0.0.1",
+  "description": "my home page",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "react": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkrocks/me.git"
+  },
+  "author": "Dmitriy Kazinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkrocks/me/issues"
+  },
+  "homepage": "https://github.com/darkrocks/me#readme"
+}
