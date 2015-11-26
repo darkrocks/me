@@ -1,49 +1,72 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Products>
-<Product>
-<simple_sku><![CDATA[NO210ELAA1YSADANID-3656272]]></simple_sku>
-<parent_sku><![CDATA[NO210ELAA1YSADANID]]></parent_sku>
+<data>
+<record>
+<simple_sku><![CDATA[AP069HAAA0X13IVNAMZ-1214889]]></simple_sku>
+<parent_sku><![CDATA[AP069HAAA0X13IVNAMZ]]></parent_sku>
 <availability_instock><![CDATA[1]]></availability_instock>
-<brand><![CDATA[Not Specified]]></brand>
-<product_name><![CDATA[VIETNAM 5 wow]]></product_name>
-<currency><![CDATA[IDR]]></currency>
-<price><![CDATA[196000.00]]></price>
-<discount><![CDATA[101600]]></discount>
-<discounted_price><![CDATA[777.00]]></discounted_price>
-<discount_percentage><![CDATA[52]]></discount_percentage>
+<brand><![CDATA[ROSOL]]></brand>
+<product_name><![CDATA[Máy lọc nước tinh khiết Rosol RS-D15e (Trắng)]]></product_name>
+<currency><![CDATA[VND]]></currency>
+<price><![CDATA[5500000.00]]></price>
+<discount><![CDATA[550000]]></discount>
+<discounted_price><![CDATA[]]></discounted_price>
+<discount_percentage><![CDATA[10]]></discount_percentage>
+<cat_m><![CDATA[Home Appliances]]></cat_m>
+<parent_of_cat_1><![CDATA[Small Kitchen Appliances]]></parent_of_cat_1>
+<category_1><![CDATA[Water Purifiers & Filters]]></category_1>
+<image_url_2><![CDATA[]]></image_url_2>
+<image_url_3><![CDATA[]]></image_url_3>
+<image_url_4><![CDATA[]]></image_url_4>
+<image_url_5><![CDATA[]]></image_url_5>
+<picture_url><![CDATA[http://static.lazada.vn/p/image-0701451-1-product.jpg]]></picture_url>
+<zoom_picture_url><![CDATA[http://static.lazada.vn/p/image-0701451-1-zoom.jpg]]></zoom_picture_url>
+<URL>http://ho.lazada.vn/SHEQaR?url=http%3A%2F%2Fwww.lazada.vn%2Fmay-loc-nuoc-tinh-khiet-rosol-rs-d15e-trang-1541070.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
+<delivery_period><![CDATA[2 - 4 days]]></delivery_period>
+</record>
+<record>
+<simple_sku><![CDATA[AP069HAAA0X13PVNAMZ-1214902]]></simple_sku>
+<parent_sku><![CDATA[AP069HAAA0X13PVNAMZ]]></parent_sku>
+<availability_instock><![CDATA[1]]></availability_instock>
+<brand><![CDATA[ROSOL]]></brand>
+<product_name><![CDATA[Máy lọc nước tinh khiết Rosol RS-D15s (Bạc)]]></product_name>
+<currency><![CDATA[VND]]></currency>
+<price><![CDATA[6900000.00]]></price>
+<discount><![CDATA[690000]]></discount>
+<discounted_price><![CDATA[]]></discounted_price>
+<discount_percentage><![CDATA[10]]></discount_percentage>
+<cat_m><![CDATA[Home Appliances]]></cat_m>
+<parent_of_cat_1><![CDATA[Small Kitchen Appliances]]></parent_of_cat_1>
+<category_1><![CDATA[Water Purifiers & Filters]]></category_1>
+<image_url_2><![CDATA[]]></image_url_2>
+<image_url_3><![CDATA[]]></image_url_3>
+<image_url_4><![CDATA[]]></image_url_4>
+<image_url_5><![CDATA[]]></image_url_5>
+<picture_url><![CDATA[http://static.lazada.vn/p/image-7701451-1-product.jpg]]></picture_url>
+<zoom_picture_url><![CDATA[http://static.lazada.vn/p/image-7701451-1-zoom.jpg]]></zoom_picture_url>
+<URL>http://ho.lazada.vn/SHEQaR?url=http%3A%2F%2Fwww.lazada.vn%2Fmay-loc-nuoc-tinh-khiet-rosol-rs-d15s-bac-1541077.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
+<delivery_period><![CDATA[2 - 4 days]]></delivery_period>
+</record>
+<record>
+<simple_sku><![CDATA[HO750ELAA0X2TMVNAMZ-1217452]]></simple_sku>
+<parent_sku><![CDATA[HO750ELAA0X2TMVNAMZ]]></parent_sku>
+<availability_instock><![CDATA[1]]></availability_instock>
+<brand><![CDATA[Hola]]></brand>
+<product_name><![CDATA[Miếng dán cường lực họa tiết 3d Hola cho iPhone 6 6S (Vàng)]]></product_name>
+<currency><![CDATA[VND]]></currency>
+<price><![CDATA[250000.00]]></price>
+<discount><![CDATA[100000]]></discount>
+<discounted_price><![CDATA[]]></discounted_price>
+<discount_percentage><![CDATA[40]]></discount_percentage>
 <cat_m><![CDATA[Mobiles & Tablets]]></cat_m>
 <parent_of_cat_1><![CDATA[Mobile Accessories]]></parent_of_cat_1>
-<category_1><![CDATA[Car accessories]]></category_1>
-<image_url_2><![CDATA[http://id-live.slatic.net/p/image-1852033-2-product.jpg]]></image_url_2>
-<image_url_3><![CDATA[http://id-live.slatic.net/p/image-1852033-3-product.jpg]]></image_url_3>
-<image_url_4><![CDATA[http://id-live.slatic.net/p/image-1852033-4-product.jpg]]></image_url_4>
-<image_url_5><![CDATA[http://id-live.slatic.net/p/image-1852033-5-product.jpg]]></image_url_5>
-<picture_url><![CDATA[http://id-live.slatic.net/p/image-1852033-1-product.jpg]]></picture_url>
-<zoom_picture_url><![CDATA[http://id-live.slatic.net/p/image-1852033-1-zoom.jpg]]></zoom_picture_url>
-<URL>http://ho.lazada.co.id/SH12Y7?url=http%3A%2F%2Fwww.lazada.co.id%2Funiversal-car-vehicle-truck-folding-beverage-drink-cup-bottle-holder-stand-mount-3302581.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
-<delivery_period><![CDATA[21 - 25 days]]></delivery_period>
-</Product>
-<Product>
-<simple_sku><![CDATA[NO210ELAA1YSADANID-3656272]]></simple_sku>
-<parent_sku><![CDATA[NO210ELAA1YSADANID]]></parent_sku>
-<availability_instock><![CDATA[1]]></availability_instock>
-<brand><![CDATA[Not Specified]]></brand>
-<product_name><![CDATA[dva]]></product_name>
-<currency><![CDATA[IDR]]></currency>
-<price><![CDATA[196000.00]]></price>
-<discount><![CDATA[101600]]></discount>
-<discounted_price><![CDATA[777.00]]></discounted_price>
-<discount_percentage><![CDATA[52]]></discount_percentage>
-<cat_m><![CDATA[Mobiles & Tablets]]></cat_m>
-<parent_of_cat_1><![CDATA[Mobile Accessories]]></parent_of_cat_1>
-<category_1><![CDATA[Car accessories]]></category_1>
-<image_url_2><![CDATA[http://id-live.slatic.net/p/image-1852033-2-product.jpg]]></image_url_2>
-<image_url_3><![CDATA[http://id-live.slatic.net/p/image-1852033-3-product.jpg]]></image_url_3>
-<image_url_4><![CDATA[http://id-live.slatic.net/p/image-1852033-4-product.jpg]]></image_url_4>
-<image_url_5><![CDATA[http://id-live.slatic.net/p/image-1852033-5-product.jpg]]></image_url_5>
-<picture_url><![CDATA[http://id-live.slatic.net/p/image-1852033-1-product.jpg]]></picture_url>
-<zoom_picture_url><![CDATA[http://id-live.slatic.net/p/image-1852033-1-zoom.jpg]]></zoom_picture_url>
-<URL>http://ho.lazada.co.id/SH12Y7?url=http%3A%2F%2Fwww.lazada.co.id%2Funiversal-car-vehicle-truck-folding-beverage-drink-cup-bottle-holder-stand-mount-3302581.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
-<delivery_period><![CDATA[21 - 25 days]]></delivery_period>
-</Product>
-</Products>
+<category_1><![CDATA[Screen Guards]]></category_1>
+<image_url_2><![CDATA[]]></image_url_2>
+<image_url_3><![CDATA[]]></image_url_3>
+<image_url_4><![CDATA[]]></image_url_4>
+<image_url_5><![CDATA[]]></image_url_5>
+<picture_url><![CDATA[http://static.lazada.vn/p/image-6033451-1-product.jpg]]></picture_url>
+<zoom_picture_url><![CDATA[http://static.lazada.vn/p/image-6033451-1-zoom.jpg]]></zoom_picture_url>
+<URL>http://ho.lazada.vn/SHEQaR?url=http%3A%2F%2Fwww.lazada.vn%2Fmieng-dan-cuong-luc-hoa-tiet-3d-hola-cho-iphone-6-6s-vang-1543306.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
+<delivery_period><![CDATA[2 - 4 days]]></delivery_period>
+</record>
+</data>
