@@ -1,72 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<data>
-<record>
-<simple_sku><![CDATA[AP069HAAA0X13IVNAMZ-1214889]]></simple_sku>
-<parent_sku><![CDATA[AP069HAAA0X13IVNAMZ]]></parent_sku>
+<Products>
+<Product>
+<simple_sku><![CDATA[UN308ELAJ4A5ANPH-543732]]></simple_sku>
+<parent_sku><![CDATA[UN308ELAJ4A5ANPH]]></parent_sku>
 <availability_instock><![CDATA[1]]></availability_instock>
-<brand><![CDATA[ROSOL]]></brand>
-<product_name><![CDATA[Máy lọc nước tinh khiết Rosol RS-D15e (Trắng)]]></product_name>
-<currency><![CDATA[VND]]></currency>
-<price><![CDATA[5500000.00]]></price>
-<discount><![CDATA[550000]]></discount>
-<discounted_price><![CDATA[]]></discounted_price>
-<discount_percentage><![CDATA[10]]></discount_percentage>
-<cat_m><![CDATA[Home Appliances]]></cat_m>
-<parent_of_cat_1><![CDATA[Small Kitchen Appliances]]></parent_of_cat_1>
-<category_1><![CDATA[Water Purifiers & Filters]]></category_1>
-<image_url_2><![CDATA[]]></image_url_2>
-<image_url_3><![CDATA[]]></image_url_3>
-<image_url_4><![CDATA[]]></image_url_4>
-<image_url_5><![CDATA[]]></image_url_5>
-<picture_url><![CDATA[http://static.lazada.vn/p/image-0701451-1-product.jpg]]></picture_url>
-<zoom_picture_url><![CDATA[http://static.lazada.vn/p/image-0701451-1-zoom.jpg]]></zoom_picture_url>
-<URL>http://ho.lazada.vn/SHEQaR?url=http%3A%2F%2Fwww.lazada.vn%2Fmay-loc-nuoc-tinh-khiet-rosol-rs-d15e-trang-1541070.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
-<delivery_period><![CDATA[2 - 4 days]]></delivery_period>
-</record>
-<record>
-<simple_sku><![CDATA[AP069HAAA0X13PVNAMZ-1214902]]></simple_sku>
-<parent_sku><![CDATA[AP069HAAA0X13PVNAMZ]]></parent_sku>
-<availability_instock><![CDATA[1]]></availability_instock>
-<brand><![CDATA[ROSOL]]></brand>
-<product_name><![CDATA[Máy lọc nước tinh khiết Rosol RS-D15s (Bạc)]]></product_name>
-<currency><![CDATA[VND]]></currency>
-<price><![CDATA[6900000.00]]></price>
-<discount><![CDATA[690000]]></discount>
-<discounted_price><![CDATA[]]></discounted_price>
-<discount_percentage><![CDATA[10]]></discount_percentage>
-<cat_m><![CDATA[Home Appliances]]></cat_m>
-<parent_of_cat_1><![CDATA[Small Kitchen Appliances]]></parent_of_cat_1>
-<category_1><![CDATA[Water Purifiers & Filters]]></category_1>
-<image_url_2><![CDATA[]]></image_url_2>
-<image_url_3><![CDATA[]]></image_url_3>
-<image_url_4><![CDATA[]]></image_url_4>
-<image_url_5><![CDATA[]]></image_url_5>
-<picture_url><![CDATA[http://static.lazada.vn/p/image-7701451-1-product.jpg]]></picture_url>
-<zoom_picture_url><![CDATA[http://static.lazada.vn/p/image-7701451-1-zoom.jpg]]></zoom_picture_url>
-<URL>http://ho.lazada.vn/SHEQaR?url=http%3A%2F%2Fwww.lazada.vn%2Fmay-loc-nuoc-tinh-khiet-rosol-rs-d15s-bac-1541077.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
-<delivery_period><![CDATA[2 - 4 days]]></delivery_period>
-</record>
-<record>
-<simple_sku><![CDATA[HO750ELAA0X2TMVNAMZ-1217452]]></simple_sku>
-<parent_sku><![CDATA[HO750ELAA0X2TMVNAMZ]]></parent_sku>
-<availability_instock><![CDATA[1]]></availability_instock>
-<brand><![CDATA[Hola]]></brand>
-<product_name><![CDATA[Miếng dán cường lực họa tiết 3d Hola cho iPhone 6 6S (Vàng)]]></product_name>
-<currency><![CDATA[VND]]></currency>
-<price><![CDATA[250000.00]]></price>
-<discount><![CDATA[100000]]></discount>
-<discounted_price><![CDATA[]]></discounted_price>
-<discount_percentage><![CDATA[40]]></discount_percentage>
+<brand><![CDATA[Unbranded]]></brand>
+<product_name><![CDATA[Love Happy Hard Case for Apple iPhone 6 (White)]]></product_name>
+<currency><![CDATA[PHP]]></currency>
+<price><![CDATA[899.00]]></price>
+<discount><![CDATA[200]]></discount>
+<discounted_price><![CDATA[699.00]]></discounted_price>
+<discount_percentage><![CDATA[22]]></discount_percentage>
 <cat_m><![CDATA[Mobiles & Tablets]]></cat_m>
 <parent_of_cat_1><![CDATA[Mobile Accessories]]></parent_of_cat_1>
-<category_1><![CDATA[Screen Guards]]></category_1>
-<image_url_2><![CDATA[]]></image_url_2>
+<category_1><![CDATA[Cases and covers]]></category_1>
+<image_url_2><![CDATA[http://srv-live.lazada.com.ph/p/image-354524-2-product.jpg]]></image_url_2>
 <image_url_3><![CDATA[]]></image_url_3>
 <image_url_4><![CDATA[]]></image_url_4>
 <image_url_5><![CDATA[]]></image_url_5>
-<picture_url><![CDATA[http://static.lazada.vn/p/image-6033451-1-product.jpg]]></picture_url>
-<zoom_picture_url><![CDATA[http://static.lazada.vn/p/image-6033451-1-zoom.jpg]]></zoom_picture_url>
-<URL>http://ho.lazada.vn/SHEQaR?url=http%3A%2F%2Fwww.lazada.vn%2Fmieng-dan-cuong-luc-hoa-tiet-3d-hola-cho-iphone-6-6s-vang-1543306.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
-<delivery_period><![CDATA[2 - 4 days]]></delivery_period>
-</record>
-</data>
+<picture_url><![CDATA[http://srv-live.lazada.com.ph/p/image-354524-1-product.jpg]]></picture_url>
+<zoom_picture_url><![CDATA[http://srv-live.lazada.com.ph/p/image-354524-1-zoom.jpg]]></zoom_picture_url>
+<URL>http://ho.lazada.com.ph/SHEQeN?url=http%3A%2F%2Fwww.lazada.com.ph%2Flove-happy-hard-case-for-apple-iphone-6-white-425453.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
+<delivery_period><![CDATA[5 - 12 days]]></delivery_period>
+</Product>
+<Product>
+<simple_sku><![CDATA[UN308ELAJ4ABANPH-543742]]></simple_sku>
+<parent_sku><![CDATA[UN308ELAJ4ABANPH]]></parent_sku>
+<availability_instock><![CDATA[1]]></availability_instock>
+<brand><![CDATA[Unbranded]]></brand>
+<product_name><![CDATA[For You Hard Case for Apple iPhone 6]]></product_name>
+<currency><![CDATA[PHP]]></currency>
+<price><![CDATA[380.00]]></price>
+<discount><![CDATA[0]]></discount>
+<discounted_price><![CDATA[380.00]]></discounted_price>
+<discount_percentage><![CDATA[0]]></discount_percentage>
+<cat_m><![CDATA[Mobiles & Tablets]]></cat_m>
+<parent_of_cat_1><![CDATA[Mobile Accessories]]></parent_of_cat_1>
+<category_1><![CDATA[Cases and covers]]></category_1>
+<image_url_2><![CDATA[http://srv-live.lazada.com.ph/p/image-954524-2-product.jpg]]></image_url_2>
+<image_url_3><![CDATA[]]></image_url_3>
+<image_url_4><![CDATA[]]></image_url_4>
+<image_url_5><![CDATA[]]></image_url_5>
+<picture_url><![CDATA[http://srv-live.lazada.com.ph/p/image-954524-1-product.jpg]]></picture_url>
+<zoom_picture_url><![CDATA[http://srv-live.lazada.com.ph/p/image-954524-1-zoom.jpg]]></zoom_picture_url>
+<URL>http://ho.lazada.com.ph/SHEQeN?url=http%3A%2F%2Fwww.lazada.com.ph%2Ffor-you-hard-case-for-apple-iphone-6-425459.html%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D_%7Boffer_file_id%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D</URL>
+<delivery_period><![CDATA[5 - 12 days]]></delivery_period>
+</Product>
+</Products>
