@@ -14,7 +14,7 @@ hexo.extend.tag.register('fancybox', function(args){
   if (args.length && rUrl.test(args[0])){
     thumbnail = args.shift();
   }
-
+sdagasd.sdfasdf()
   var title = args.join(' ');
 
   return '<a class="fancybox" href="' + original + '" title="' + title + '">' +

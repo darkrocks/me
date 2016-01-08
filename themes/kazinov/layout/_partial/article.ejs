@@ -1,0 +1,29 @@
+<article itemscope itemprop="blogPost">
+  <div>
+    <% if (post.link || post.title){ %>
+    <header>
+      <%- partial('article-title') %>
+    </header>
+    <% } %>
+    <div itemprop="articleBody">
+      <% if (post.excerpt && preview){ %>
+      <%- post.excerpt %>
+      <% if (theme.excerpt_link){ %>
+      <p>
+        <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
+      </p>
+      <% } %>
+      <% } else { %>
+      <%- post.content %>
+      <% } %>
+
+    </div>
+    <footer>
+      <a data-url="<%- post.permalink %>" data-id="<%= post._id %>">Share</a>
+      <% if (post.comments && config.disqus_shortname){ %>
+      <a href="<%- post.permalink %>#disqus_thread" class="article-comment-link">Comments</a>
+      <% } %>
+      <%- partial('post/tag') %>
+    </footer>
+  </div>
+</article>
