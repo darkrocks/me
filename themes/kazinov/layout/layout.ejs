@@ -3,7 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Kazinov</title>
+  <meta name="description" content="Blog about web development, modern frontend frameworks, node.js and other animals">
+  <title>
+    <% if(page.title) {%>
+    <%= page.title %> |
+    <% } %>
+    <%= config.title %>
+
+  </title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 

@@ -1,7 +1,7 @@
 <% if (preview){ %>
-<h1 itemprop="name">
+<h2 itemprop="name">
   <a href="<%- url_for(post.path) %>"><%= post.title %></a>
-</h1>
+</h2>
 <% } else { %>
 <h1 itemprop="name">
   <%= post.title %>
