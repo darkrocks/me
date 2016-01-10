@@ -70,3 +70,6 @@ theme: kazinov
 deploy:
   type: git
   repo: https://github.com/darkrocks/darkrocks.github.io.git
+
+disqus_shortname:
+  kazinov
