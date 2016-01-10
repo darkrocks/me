@@ -18,12 +18,36 @@
       <% } %>
 
     </div>
-    <footer>
-      <a data-url="<%- post.permalink %>" data-id="<%= post._id %>">Share</a>
+
+    <footer class="text-right">
+      <% if (!preview){ %>
+      <div class="btn-group share-buttons" role="group" aria-label="share">
+        <button type="button" class="btn btn-default">
+          <a href="https://twitter.com/intent/tweet?url=<%- encodeURIComponent(post.permalink) %>" target="_blank" title="Twitter">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </button>
+        <button type="button" class="btn btn-default">
+          <a href="https://www.facebook.com/sharer.php?u=<%- encodeURIComponent(post.permalink) %>" target="_blank" title="Facebook">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </button>
+        <button type="button" class="btn btn-default">
+          <a href="https://plus.google.com/share?url=<%- encodeURIComponent(post.permalink) %>" target="_blank" title="Google+">
+            <i class="fa fa-google-plus"></i>
+          </a>
+        </button>
+        <button type="button" class="btn btn-default">
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url=<%- encodeURIComponent(post.permalink) %>" target="_blank" title="LinkedIn">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </button>
+      </div>
+      <% } %>
+
       <% if (post.comments && config.disqus_shortname){ %>
       <a href="<%- post.permalink %>#disqus_thread" class="article-comment-link">Comments</a>
       <% } %>
-      <%- partial('post/tag') %>
     </footer>
   </div>
 </article>
