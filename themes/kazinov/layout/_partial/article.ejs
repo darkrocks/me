@@ -20,6 +20,11 @@
     </div>
 
     <footer>
+      <div class="text-right kz-article-date">
+        <time datetime="<%= date_xml(post.date) %>"
+              itemprop="datePublished">
+          <%= date(post.date) %></time>
+      </div>
       <div class="row">
         <div class="col-xs-3">
           <% if (!preview){ %>

@@ -4,7 +4,9 @@
       <%- partial('_partial/author-bar') %>
     </div>
     <div class="col-xs-12 col-sm-9">
-      <%- partial('_partial/article-preview-list') %>
+      <% page.posts.each(function(post){ %>
+      <%- partial('_partial/article', {post: post, preview: true}) %>
+      <% }) %>
     </div>
   </div>
 </div>
