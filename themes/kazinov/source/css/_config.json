@@ -63,9 +63,9 @@
     "@table-bg-active": "@table-bg-hover",
     "@table-border-color": "#ddd",
     "@btn-font-weight": "normal",
-    "@btn-default-color": "@gray-lighter",
-    "@btn-default-bg": "@gray-dark",
-    "@btn-default-border": "@gray",
+    "@btn-default-color": "@text-color",
+    "@btn-default-bg": "@body-bg",
+    "@btn-default-border": "@body-bg",
     "@btn-primary-color": "#fff",
     "@btn-primary-bg": "@brand-primary",
     "@btn-primary-border": "darken(@btn-primary-bg, 5%)",
@@ -392,5 +392,5 @@
     "button-groups.less"
   ],
   "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=8d9fe9e81594d987162e"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=6dba2144106f87600de2"
 }
